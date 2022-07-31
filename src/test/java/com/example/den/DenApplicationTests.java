@@ -1,13 +1,13 @@
-package com.car.configurator;
+package com.example.den;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CarconfiguratorApplicationTests {
+class DenApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
